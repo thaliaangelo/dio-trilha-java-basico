@@ -10,15 +10,13 @@ public class Exercicio3 {
             number = sc.nextInt();
 
             switch(number){
-            case 1 : System.out.println("Certo");
-            break;
+            case 1 : 
 
-            case 2 : System.out.println("Certo");
-            break;
+            case 2 : 
 
             case 3 : System.out.println("Certo");
             break; 
-            
+
             case 4 : System.out.println("Errado");
             break;
 
